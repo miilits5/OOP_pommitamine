@@ -11,6 +11,7 @@ import java.util.Random;
 public class Laev {
     private int laevaPikkus;
     private int[] kordinaadid;
+    private boolean elus = true;
     public Laev(int pikkus, int lauaServaPikkus) {
         laevaPikkus = pikkus;
         genereeriKordinaadid(lauaServaPikkus);
@@ -21,5 +22,8 @@ public class Laev {
         int x = rand.nextInt(lauaServaPikkus);
         int y = rand.nextInt(lauaServaPikkus);
         kordinaadid = new int[]{x, y};
+    }
+    public boolean oledElus() {
+        return elus;
     }
 }
