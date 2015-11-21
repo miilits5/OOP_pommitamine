@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Mangija.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding>
                 <element signature="e#475#476#0" expanded="true" />
                 <element signature="e#523#524#0" expanded="true" />
@@ -63,21 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Meri.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Meri.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Meri.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.37804878">
+              <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Laev.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Laev.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Laev.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80335367">
-              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#680#681#0" expanded="true" />
@@ -105,8 +105,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/OOP_Pommitamine/Main.java" />
-        <option value="$PROJECT_DIR$/src/OOP_Pommitamine/Mangija.java" />
         <option value="$PROJECT_DIR$/src/OOP_Pommitamine/Mang.java" />
+        <option value="$PROJECT_DIR$/src/OOP_Pommitamine/Mangija.java" />
         <option value="$PROJECT_DIR$/src/OOP_Pommitamine/Laev.java" />
         <option value="$PROJECT_DIR$/src/OOP_Pommitamine/Meri.java" />
       </list>
@@ -487,12 +487,12 @@
       <created>1448099952057</created>
       <option name="number" value="Default" />
       <updated>1448099952057</updated>
-      <workItem from="1448099953817" duration="9987000" />
+      <workItem from="1448099953817" duration="10856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9987000" />
+    <option name="totallyTimeSpent" value="10856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -573,10 +573,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Mang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Mangija.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="e#475#476#0" expanded="true" />
             <element signature="e#523#524#0" expanded="true" />
@@ -588,31 +596,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Mang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Meri.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Laev.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80335367">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#680#681#0" expanded="true" />
             <element signature="e#707#708#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP_Pommitamine/Meri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37804878">
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>

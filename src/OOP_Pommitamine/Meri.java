@@ -14,9 +14,10 @@ public class Meri {
 
     private void tekitaLaevastik() {
         for (int i = 0; i < laevastik.length; i++) {
-            laevastik[i] = new Laev(i+1, lauaServaPikkus);
+            laevastik[i] = new Laev(i + 1, lauaServaPikkus);
         }
     }
+
     public boolean laevuOnAlles() {
         for (int i = 0; i < laevastik.length; i++) {
             boolean elus = laevastik[i].oledElus();
@@ -53,7 +54,7 @@ public class Meri {
 
     private boolean kasLaevaOnSiin(int i, int j) {
         for (Laev laev : laevastik) {
-            if (laev.oledSiin()){
+            if (laev.oledSiin(i, j)) {
                 return true;
             }
         }
