@@ -16,8 +16,8 @@ public class Mang {
 
 
         while (meri.laevuOnAlles()) {
-            int[] lask = mangija.kuhuLasta();/*
-            boolean pihtas = meri.saiPihta(lask);
+            int[] lask = mangija.kuhuLasta();
+            boolean pihtas = meri.saiPihta(lask);/*
             if (pihtas) {
                 mangija.pihtas();
             } else {

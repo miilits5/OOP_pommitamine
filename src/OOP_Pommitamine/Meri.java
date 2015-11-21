@@ -26,4 +26,14 @@ public class Meri {
         }
         return false;
     }
+
+    public boolean saiPihta(int[] lask) {
+        for (Laev laev : laevastik) {
+            boolean pihtas = laev.kasTabas(lask);
+            if (pihtas) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

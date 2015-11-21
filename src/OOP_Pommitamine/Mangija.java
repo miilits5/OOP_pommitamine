@@ -12,7 +12,7 @@ public class Mangija {
         System.out.println("Sisesta kordinaadid formaadis xxx-yyy");
         String[] input = sc.nextLine().split("-");
         int x = Integer.parseInt(input[0]);
-        int y = Integer.parseInt(input[0]);
+        int y = Integer.parseInt(input[1]);
         return new int[]{x, y};
     }
 }

@@ -26,4 +26,12 @@ public class Laev {
     public boolean oledElus() {
         return elus;
     }
+
+    public boolean kasTabas(int[] lask) {
+        if (kordinaadid.equals(lask)){
+            elus = false;
+            return true;
+        }
+        return false;
+    }
 }
