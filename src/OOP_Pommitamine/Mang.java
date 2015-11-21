@@ -16,18 +16,19 @@ public class Mang {
 
 
         while (meri.laevuOnAlles()) {
+            meri.kuvaLaud();
             int[] lask = mangija.kuhuLasta();
-            boolean pihtas = meri.saiPihta(lask);/*
+            boolean pihtas = meri.saiPihta(lask);
             if (pihtas) {
                 mangija.pihtas();
             } else {
                 mangija.moodas();
             }
-*/
+
         }
-/*
+
         mangija.gameover();
 
-*/
+
     }
 }

@@ -15,4 +15,16 @@ public class Mangija {
         int y = Integer.parseInt(input[1]);
         return new int[]{x, y};
     }
+
+    public void pihtas() {
+        System.out.println("Said pihta");
+    }
+
+    public void moodas() {
+        System.out.println("Ei saanud pihta");
+    }
+
+    public void gameover() {
+        System.out.println("Mäng läbi");
+    }
 }

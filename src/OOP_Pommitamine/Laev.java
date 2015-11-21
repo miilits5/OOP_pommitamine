@@ -34,4 +34,12 @@ public class Laev {
         }
         return false;
     }
+
+
+    public boolean oledSiin() {
+        if (kordinaadid.equals(kordinaadid)){
+            return true;
+        }
+        return false;
+    }
 }
