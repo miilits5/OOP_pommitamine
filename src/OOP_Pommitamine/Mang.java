@@ -11,10 +11,10 @@ public class Mang {
     *3. Kui mäng on läbi, mis saab?
 */
         Meri meri = new Meri(10);
-        /*
+
         Mangija mangija = new Mangija();
 
-
+/*
         while (meri.laevuOnAlles()) {
             int[] lask = mangija.kuhuLasta();
             boolean pihtas = meri.saiPihta(lask);
