@@ -17,4 +17,13 @@ public class Meri {
             laevastik[i] = new Laev(i+1, lauaServaPikkus);
         }
     }
+    public boolean laevuOnAlles() {
+        for (int i = 0; i < laevastik.length; i++) {
+            boolean elus = laevastik[i].oledElus();
+            if (elus) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

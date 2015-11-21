@@ -14,8 +14,8 @@ public class Mang {
 
         Mangija mangija = new Mangija();
 
-/*
-        while (meri.laevuOnAlles()) {
+
+        while (meri.laevuOnAlles()) {/*
             int[] lask = mangija.kuhuLasta();
             boolean pihtas = meri.saiPihta(lask);
             if (pihtas) {
@@ -23,11 +23,11 @@ public class Mang {
             } else {
                 mangija.moodas();
             }
-
+*/
         }
-
+/*
         mangija.gameover();
-        */
 
+*/
     }
 }

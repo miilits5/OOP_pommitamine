@@ -21,6 +21,5 @@ public class Laev {
         int x = rand.nextInt(lauaServaPikkus);
         int y = rand.nextInt(lauaServaPikkus);
         kordinaadid = new int[]{x, y};
-        System.out.println(Arrays.toString(kordinaadid));
     }
 }
